@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+
+
+}
+.navbar a{
+    font-weight: 14px;
+    font-weight: 500;
+    
+}
+
+.navbar-toggler{
+    padding: 1px 5px;
+    font-size: 18px;
+    line-height: 0.3;
+    background: #fff;
+}
+
+
+
+
+.six{
+    height: 600px;
+}
+.carousel-caption{
+    margin-bottom: 100px;
+    
+}
+
+.carousel-caption p,h5{
+    text-align: left;
+}
+.carousel-caption h5{
+    font-size: 40px;
+    text-transform: uppercase;
+}
+.carousel-caption input{
+border: none;
+}
+
+
+.arrow-icon{
+    font-size: 28px;
+    font-weight: 800;
+}
+
+
+.bg-footer{
+    background-color: #000;
+    padding: 50px 0 30px;
+}
+.bg-footer a{
+    text-decoration: none;
+    color:#aeaeae;
+}
+.accordion-button {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.c:hover{
+    
+    transform: scale(1.1);
+
+}
+*{
+    padding: 0;
+    box-sizing: border-box;
+    margin: 0;
+}
+
